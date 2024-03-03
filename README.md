@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sridharan.
-I am a experienced Java professional with over a decade of expertise in designing and delivering enterprise-grade applications. Proficient in Java, JEE, Spring Boot, Microservices, JavaScript, React, and REST APIs, I've led successful teams to build scalable, high-performance applications using cutting-edge technologies. 
+I am a experienced Java professional with over a decade of expertise in designing and delivering enterprise-grade applications. Proficient in Java, JEE, Spring Boot, Microservices, JavaScript, React, and REST APIs, I've led successful teams to build scalable, high-performance applications using cutting-edge technologies..
 
 
 Skills: Java / SpringBoot / Microservices / JavaScript / React / HTML / CSS
